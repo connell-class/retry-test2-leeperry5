@@ -3,3 +3,6 @@ jdk: openjdk8
 git:
     depth: false
 script: ./build.sh
+notifications:
+    email:
+        - perrylee_2004@yahoo.com
